@@ -7,11 +7,9 @@
 ![音](fig/resAnime.gif)
 ![距離](fig/processing.gif)
 
-* もしよければ。作った教材の共有をしていきます。
-
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channelid="UCZ_2UC-s5Sv4bCqh2EKjNmw" data-layout="full" data-count="hidden"></div> <a href="https://twitter.com/phys_ken?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @phys_ken</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+* 連絡先(低浮上)
+  * [Youtube](https://www.youtube.com/channel/UCZ_2UC-s5Sv4bCqh2EKjNmw/videos)
+  * [Twitter](https://twitter.com/phys_ken)
 
 [![](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
