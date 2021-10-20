@@ -1,6 +1,10 @@
 # Phys-Ken's Top Page
 
 ## 自己紹介
+
+<img src="https://avatars.githubusercontent.com/u/62343651?s=400&u=66fa1053ffb4b798bd22bc86d1a06210b68e5d7c&v=4" alt="図形が表示できません" border="0"
+width="200"  align="right" />
+
 * 公立高校教員(理科・物理)
 * Python、R、VBA、Google App Script
 * Links
@@ -25,7 +29,7 @@ width="320"  />
 * [PDF2PPTX](https://github.com/phys-ken/pdf2pptx_win_mac)
   * PDFを一枚ずつ画像に変換し、パワーポイントに貼り付けます。推薦書の記入などで使えます。
 
-* (silent_cutter)[https://github.com/phys-ken/silent_cutter] (python,ffmpegが必要です)
+*[silent_cutter](https://github.com/phys-ken/silent_cutter) (python,ffmpegが必要です)
   * 動画の無音部分を切り取って、結合します。授業動画の作成を助けます。
 
 
