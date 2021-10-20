@@ -29,7 +29,7 @@ width="320"  />
 * [PDF2PPTX](https://github.com/phys-ken/pdf2pptx_win_mac)
   * PDFを一枚ずつ画像に変換し、パワーポイントに貼り付けます。推薦書の記入などで使えます。
 
-*[silent_cutter](https://github.com/phys-ken/silent_cutter) (python,ffmpegが必要です)
+* [silent_cutter](https://github.com/phys-ken/silent_cutter) (python,ffmpegが必要です)
   * 動画の無音部分を切り取って、結合します。授業動画の作成を助けます。
 
 
@@ -59,7 +59,7 @@ width="320"  />
 * [幾何光学シミュレーション](https://phys-ken.github.io/Optics/README.html)
   * ![lens](fig/lens.JPG)
 
-
+## 使用言語とGithubでのステータス
 
 [![](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
