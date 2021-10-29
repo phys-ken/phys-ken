@@ -44,6 +44,11 @@ width="320"  />
 
 ## 教材作成
 
+* [Web Serial API を使った物理実験](https://phys-ken.github.io/webserial_app)
+  * ![fig/graph.gif]
+
+
+
 * [音量で明るさが変わるLED](https://phys-ken.github.io/volume_led2/README.html)
   * ![音](fig/resAnime.gif)
 
