@@ -4,6 +4,14 @@
     https://github.com/pages-themes/dinky
 --->
 
+<script src="{{ '/assets/js/jquery-3.2.1.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/jquery.prmenu.min.js' | relative_url }}"></script>
+<script>
+  $(document).ready(function () {
+    $('#top-menu').prmenu();
+  });
+</script>
+
 <html lang="{{ site.lang | default: " en-US" }}">
 
 <head>
@@ -26,13 +34,6 @@
 <body>
 
   <!------------ メニューバー ------------->
-  <script src="{{ '/assets/js/jquery-3.2.1.min.js' | relative_url }}"></script>
-  <script src="{{ '/assets/js/jquery.prmenu.min.js' | relative_url }}"></script>
-  <script>
-    $(document).ready(function () {
-      $('#top-menu').prmenu();
-    });
-  </script>
   <ul id="top-menu">
     <li><a href="{{ '/' | relative_url }}">トップページ</a></li>
     <li><a href="#">校務支援ソフトウェア</a>
@@ -51,6 +52,8 @@
       </ul>
     </li>
   </ul>
+
+
   <!------------ メニューバー ------------->
 
 
