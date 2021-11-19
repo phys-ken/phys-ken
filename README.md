@@ -1,4 +1,6 @@
-# Phys-Ken's Top Page
+---
+layout: default
+---
 
 ## 自己紹介
 
