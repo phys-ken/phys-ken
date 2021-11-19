@@ -2,9 +2,7 @@
 * [採点斬り2021](https://github.com/phys-ken/saitenGiri2021)
   * デジタル採点支援のフリーソフト
   * ダウンロードの方法や使い方は、[解説動画](https://www.youtube.com/watch?v=zhaWaxFah2g)をご覧ください。
-
-<img src="./fig/1giri.gif" alt="図形が表示できません" border="0"
-width="320"  />
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zhaWaxFah2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [ウラオモテヤマネコ](https://phys-ken.github.io/uraomoteYamaneko/)
   * 両面スキャンした画像を、表裏ごとにフォルダ分けします
