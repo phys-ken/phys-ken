@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## 自己紹介
 
 <img src="https://avatars.githubusercontent.com/u/62343651?s=400&u=66fa1053ffb4b798bd22bc86d1a06210b68e5d7c&v=4" alt="図形が表示できません" border="0"
