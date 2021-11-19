@@ -5,6 +5,6 @@
 ## 2021年
 ### ○○理科教育研究大会の発表資料(11月)
 * 「chromebookとセンサーを使った生徒実験の提案」というタイトルで発表しました。資料を公開します。
-[発表資料](https://github.com/phys-ken/phys-ken/blob/main/datas/20211119_paper.pdf) / [発表スライド](https://github.com/phys-ken/phys-ken/blob/main/datas/20211119_slide.pdf)
+[発表資料](https://phys-ken.github.io/phys-ken/datas/20211119_paper.pdf) / [発表スライド](https://phys-ken.github.io/phys-ken/datas/20211119_slide.pdf)
 * 15分と時間が限られていた中で、あれもこれも発表しようとしすぎて一番肝心なところが駆け足になってしまった。反省。「あーなんか難しそうなことやってるね、すごいすごい。再現性ある状態にしてもっとわかりやすく発表してね」って雰囲気になってしまった。
   * もちろん、聞いている方々はそんな態度じゃないし、質疑応答・アドバイスをしてくださった。でも、私が聞いてたらそう思っただろうなあ。
