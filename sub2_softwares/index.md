@@ -4,6 +4,10 @@
   * ダウンロードの方法や使い方は、[解説動画](https://www.youtube.com/watch?v=zhaWaxFah2g)をご覧ください。
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zhaWaxFah2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* [Google Classroomで個別配信するソフト](https://qiita.com/phys-ken/items/269a118df0bc0c895ad4)
+  * リンク先の記事にある通り、Google Classroomで個別配信をしてくれます。割と便利だと思う。
+  * Google App Scriptで生徒情報を書き出すコードは結構頑張って書きました。用意されているいくつかの関数はそのまま使えると思います。
+
 * [ウラオモテヤマネコ](https://phys-ken.github.io/uraomoteYamaneko/)
   * 両面スキャンした画像を、表裏ごとにフォルダ分けします
 
