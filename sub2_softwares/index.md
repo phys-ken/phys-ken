@@ -8,6 +8,10 @@
   * リンク先の記事にある通り、Google Classroomで個別配信をしてくれます。割と便利だと思う。
   * Google App Scriptで生徒情報を書き出すコードは結構頑張って書きました。用意されているいくつかの関数はそのまま使えると思います。
 
+* [マークシート採点システム](https://drive.google.com/drive/folders/106lB3aDrM7yY0l4laEngrddTJC2fYUjC?usp=sharing)
+  * 神奈川県総合教育センターが配布する、マークシート採点のフリーソフト【[markscan](https://www.pen-kanagawa.ed.jp/edu-ctr/kenkyu/marksheet.html)】に対応した、Excel VBAを使用したExcelファイルです。
+  * markscanは現在公式サイトからのダウンロードはできませんが、ミラーサイトがあるので、ぜひ検索してみてください。
+
 * [ウラオモテヤマネコ](https://phys-ken.github.io/uraomoteYamaneko/)
   * 両面スキャンした画像を、表裏ごとにフォルダ分けします
 
