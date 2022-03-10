@@ -2,6 +2,7 @@
 * [採点斬り2021](https://github.com/phys-ken/saitenGiri2021)
   * デジタル採点支援のフリーソフト
   * ダウンロードの方法や使い方は、[解説動画](https://www.youtube.com/watch?v=zhaWaxFah2g)をご覧ください。
+  * 拡張機能として、出力画像にマルバツの記号をつける、[marubatu.exe](https://phys-ken.github.io/saitenGiri2021-marubatu/)も公開しています。
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zhaWaxFah2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Google Classroomで個別配信するソフト](https://qiita.com/phys-ken/items/269a118df0bc0c895ad4)
