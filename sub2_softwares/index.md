@@ -20,6 +20,9 @@
 * [ウラオモテヤマネコ](https://phys-ken.github.io/uraomoteYamaneko/)
   * 両面スキャンした画像を、表裏ごとにフォルダ分けします
 
+* [授業支援パワポアドイン](https://phys-ken.github.io/pptxAddIn_ForSchool/)
+  * 授業準備で使えそうな機能を、アドインとしてまとめました。***4分割資料の一括作成*** 、***BIZ UDゴシックへの一括変換***などが可能です。
+
 * [PDF2PPTX](https://github.com/phys-ken/pdf2pptx_win_mac)
   * PDFを一枚ずつ画像に変換し、パワーポイントに貼り付けます。推薦書の記入などで使えます。
 
