@@ -11,7 +11,7 @@
 * 何も発表も研究もできなかったなぁ...。
 
 ## 2022年
-### 物理教育通信に
+### 物理教育通信
 * [chromebookとM5Stackを使った生徒実験の提案](https://www.jstage.jst.go.jp/article/apej/188/0/188_51/_article/-char/ja/)を投稿しました。
 * web serial APIを使って、シリアル通信のデータをブラウザで表示できるようにしました。課題は、タイムスタンプの精度です。今後検証します。
 * 本論文で紹介した自作のサイトはこちら[シリアル通信で物理実験をしよう](https://phys-ken.github.io/webserial_app/)
