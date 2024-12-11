@@ -72,12 +72,13 @@ a.btn-flat:hover:before {
 
 
 # YPC例会アルバム検索システム
+***2024/12/11 検索サイトの仕様を一新しました。ロードが早くなりました。***
 * 横浜物理サークルのホームページの過去の例会資料を検索することができます。
 * 複数語での検索はできません。単語の完全一致のみ検索できます。
 * 初回読み込み時に、**4MBほどのテキストデータ**を読み込みます。通信環境には注意してください。
 * 毎月、phys-kenが手動で更新しています。うっかりしていると更新を忘れちゃいます。更新が途絶えていた場合は、連絡してくれれば更新します。
 
-<a href="https://phys-ken.github.io/ypc_database/index.html" class="btn btn-flat"><span>検索サイトへ移動！</span></a>
+<a href="https://phys-ken.github.io/ypc_database/index2.html" class="btn btn-flat"><span>検索サイトへ移動！</span></a>
 
 ## 不具合の報告と、回答
 * 記事ごとに文章が分かれていない
