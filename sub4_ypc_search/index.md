@@ -80,6 +80,9 @@ a.btn-flat:hover:before {
 
 <a href="https://phys-ken.github.io/ypc_database/index2.html" class="btn btn-flat"><span>検索サイトへ移動！</span></a>
 
+## 使い方
+![](../fig/ypc_manial.png)
+
 ## 不具合の報告と、回答
 * 記事ごとに文章が分かれていない
   * htmlの<p>タグを認識して分析をしています。元の例会アルバムでタグの構造が普段と違うと、うまく分割ができずに、文章に不備が生じてしまいます。申し訳ありませんが、我慢してください。
