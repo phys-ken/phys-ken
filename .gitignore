@@ -1,2 +1,15 @@
 
 .DS_Store
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# MkDocs build output
+site/
+
+# IDE
+.vscode/
+.idea/

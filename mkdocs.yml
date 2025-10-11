@@ -1,0 +1,58 @@
+site_name: phys-ken
+site_url: https://phys-ken.github.io/phys-ken/
+site_description: 高校物理教員の資料・ソフトウェア置き場
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替え
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替え
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  font:
+    text: Noto Sans JP
+    code: Roboto Mono
+
+nav:
+  - ホーム: index.md
+  - 資料置き場: papers/index.md
+  - ソフトウェア: softwares/index.md
+  - ツール: tools/index.md
+  - YPC検索: ypc_search/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search:
+      lang: ja
