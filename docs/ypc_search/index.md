@@ -13,7 +13,7 @@
 * **データサイズ**: 初回読み込み時に約4MBのテキストデータを読み込みます
 * **更新頻度**: 毎月手動更新（更新が遅れている場合はお知らせください）
 
-[:material-magnify: 検索サイトへ移動](https://phys-ken.github.io/ypc_database/index2.html){ .md-button .md-button--primary }
+[検索サイトへ移動](https://phys-ken.github.io/ypc_database/index2.html){ .md-button .md-button--primary }
 
 ## 使い方
 

@@ -9,14 +9,14 @@
 
 **高校物理教員** として教育現場で働きながら、**プログラミング**と**教育技術**の融合に取り組んでいます。
 
-### 専門分野
+### 興味がある分野
 - **物理・情報科教育** (公立高等学校)
-- **教育測定・テスト理論** 
+- **教育測定・テスト理論**
 - **デジタル教材開発**
 - **マイコン・センサーを活用した実験システム**
 
 ### 開発について
-趣味の範囲でソフトウェア開発を行っています。教育現場での実用性を重視し、可能な限り動作確認を行っていますが、**自己責任**でのご利用をお願いします。
+趣味でソフトウェア開発をしています。教育現場で使えるものを心がけていますが、完璧ではありませんので、**自己責任**でご利用ください。
 
 </div>
 
@@ -25,12 +25,6 @@
 ## Connect with me
 
 <div class="social-links" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
-
-<div class="social-card" style="padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; transition: all 0.3s ease;">
-<h4 style="margin: 0 0 5px 0; color: #1da1f2;"><i class="fab fa-twitter"></i> X (Twitter)</h4>
-<p style="margin: 0; font-size: 0.9em; color: #666;">日常的な教育技術情報を発信</p>
-<a href="https://twitter.com/phys_ken" target="_blank" style="text-decoration: none;">@phys_ken</a>
-</div>
 
 <div class="social-card" style="padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; transition: all 0.3s ease;">
 <h4 style="margin: 0 0 5px 0; color: #55c500;"><i class="fab fa-github"></i> GitHub</h4>
@@ -59,7 +53,7 @@
 </div>
 
 !!! info "Contact"
-    ご質問やご相談は [X(Twitter)](https://twitter.com/phys_ken) のDMでお気軽にどうぞ。ただし、趣味の範囲での対応となるため、校務の都合でお返事が遅れる場合があります。
+    ご質問やご相談がありましたら、GitHubやQiita経由でお気軽にどうぞ。趣味での活動のため、校務の都合でお返事が遅れる場合があります。
 
 ## Site Contents
 

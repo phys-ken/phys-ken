@@ -3,7 +3,7 @@
 研究発表資料や論文を年代順に整理しています。
 
 !!! note "利用について"
-    - ご意見・ご感想は[TwitterのDM](https://twitter.com/phys_ken)でお願いします
+    - ご意見・ご感想はGitHubやQiita経由でお願いします
     - 学校での授業以外の目的での利用はご遠慮ください
     - 個人情報の取り扱いにご配慮ください
 
@@ -35,8 +35,8 @@
 
 **「chromebookとセンサーを使った生徒実験の提案」**
 
-[:material-file-pdf-box: 発表資料](../datas/20211119_paper.pdf){ .md-button }
-[:material-presentation: 発表スライド](../datas/20211119_slide.pdf){ .md-button }
+[発表資料](../datas/20211119_paper.pdf){ .md-button }
+[発表スライド](../datas/20211119_slide.pdf){ .md-button }
 
 !!! abstract "発表の振り返り"
     15分という限られた時間で多くの内容を詰め込みすぎ、重要な部分が駆け足になってしまいました。聴講者の方々からは貴重なご質問・アドバイスをいただき、今後の研究に活かしていきます。
@@ -45,8 +45,8 @@
 
 **「センサーを使った基本実験講習（物理）」**
 
-[:material-file-pdf-box: 研修資料](../datas/20211021_paper.pdf){ .md-button }
-[:material-presentation: 研修スライド](../datas/20211021_slides.pdf){ .md-button }
+[研修資料](../datas/20211021_paper.pdf){ .md-button }
+[研修スライド](../datas/20211021_slides.pdf){ .md-button }
 
 - **参加者**: 約20名
 - **実習内容**: 全参加者がセンサーを実際に操作
