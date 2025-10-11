@@ -1,39 +1,121 @@
-# 自作校務支援ソフト
-* [採点斬り2021](https://github.com/phys-ken/saitenGiri2021)
-  * デジタル採点支援のフリーソフト
-  * ダウンロードの方法や使い方は、[解説動画](https://www.youtube.com/watch?v=zhaWaxFah2g)をご覧ください。
-  * 拡張機能として、出力画像にマルバツの記号をつける、[marubatu.exe](https://phys-ken.github.io/saitenGiri2021-marubatu/)も公開しています。
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zhaWaxFah2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# ソフトウェア
 
-* [Google Classroomで個別配信するソフト](https://qiita.com/phys-ken/items/269a118df0bc0c895ad4)
-  * リンク先の記事にある通り、Google Classroomで個別配信をしてくれます。割と便利だと思う。
-  * Google App Scriptで生徒情報を書き出すコードは結構頑張って書きました。用意されているいくつかの関数はそのまま使えると思います。
+教育現場での作業効率化を目的とした自作ソフトウェアを公開しています。
 
-* [マークシート採点システム](https://drive.google.com/drive/folders/106lB3aDrM7yY0l4laEngrddTJC2fYUjC?usp=sharing)
-  * 神奈川県総合教育センターが配布する、マークシート採点のフリーソフト【[markscan](https://www.pen-kanagawa.ed.jp/edu-ctr/kenkyu/marksheet.html)】に対応した、Excel VBAを使用したExcelファイルです。
-  * markscanは現在公式サイトからのダウンロードはできませんが、ダウンロード用のミラーサイトが複数あるので、ぜひ**「markscan ダウンロード」**などで検索してみてください。
+!!! warning "利用上の注意"
+    すべて趣味で作成したソフトウェアです。ミスがないよう注意していますが、**自己責任**でご利用ください。
 
-* [markscan_bw.exe](https://phys-ken.github.io/image_thresholding_for_markscan/)
-  * スキャナーでスキャンしたグレースケールのマークシートを、白黒の画像に分けます。
-    * markscanというソフトでは、内部処理で二値化をしています。しかし、その様子をプレビューで見ることができません。レイアウトの読み込みがうまくいかないときは、二値化の際に右側のシンボルがうまく読み込めていないことが多いので、このソフトで事前に分けておくのはいかがでしょうか。　  
+## 採点・評価支援
 
-* [ウラオモテヤマネコ](https://phys-ken.github.io/uraomoteYamaneko/)
-  * 両面スキャンした画像を、表裏ごとにフォルダ分けします
+### 採点斬り2021
+**デジタル採点支援のフリーソフト**
 
-* [授業支援パワポアドイン](https://phys-ken.github.io/pptxAddIn_ForSchool/)
-  * 授業準備で使えそうな機能を、アドインとしてまとめました。***4分割資料の一括作成*** 、***BIZ UDゴシックへの一括変換***などが可能です。
+[:material-github: GitHubリポジトリ](https://github.com/phys-ken/saitenGiri2021){ .md-button }
+[:material-youtube: 使い方動画](https://www.youtube.com/watch?v=zhaWaxFah2g){ .md-button .md-button--primary }
 
-* [PDF2PPTX](https://github.com/phys-ken/pdf2pptx_win_mac)
-  * PDFを一枚ずつ画像に変換し、パワーポイントに貼り付けます。推薦書の記入などで使えます。
+- **機能**: デジタル採点の効率化
+- **拡張機能**: [マルバツ記号追加ツール](https://phys-ken.github.io/saitenGiri2021-marubatu/)
 
-* [silent_cutter](https://github.com/phys-ken/silent_cutter) (python,ffmpegが必要です)
-  * 動画の無音部分を切り取って、結合します。授業動画の作成を助けます。
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/zhaWaxFah2g" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
-* markdownを利用した教材作成の効率化<[発表資料](https://www2.hamajima.co.jp/~tenjin/ypc/217/20210725markdown.pdf)>
-  * [docx_pptx2md](https://github.com/phys-ken/docx_pptx2md) (pythonが必要です)
-    * すでに作成したワードやパワーポイントの資料を、markdownに変換します。
-  * [md2exam](https://github.com/phys-ken/md2exam) (pythonとpandocが必要です)
-    * マークダウンの階層構造を分析して、試験問題のテンプレートをワードで作成します。選択肢を自動でソートし、マークシート式の際に使える解答番号の自動振りも行えます。
-   
-* [VBAでアクティブプリンターを設定する(gist)](https://gist.github.com/phys-ken/23ef7fcce39e1eb5a8ba2ee27795b2e1)
-  * ただのTips。
+### マークシート採点システム
+**Excel VBA版マークシート採点支援**
+
+[:material-google-drive: ダウンロード](https://drive.google.com/drive/folders/106lB3aDrM7yY0l4laEngrddTJC2fYUjC?usp=sharing){ .md-button }
+
+- **対応ソフト**: [markscan](https://www.pen-kanagawa.ed.jp/edu-ctr/kenkyu/marksheet.html) (神奈川県総合教育センター配布)
+- **プラットフォーム**: Excel VBA
+- **備考**: markscanは公式配布終了のため、「markscan ダウンロード」で検索してミラーサイトを利用してください
+
+### markscan_bw.exe
+**マークシート画像の二値化処理**
+
+[:material-download: ダウンロード](https://phys-ken.github.io/image_thresholding_for_markscan/){ .md-button }
+
+- **機能**: グレースケールのマークシート画像を白黒二値化
+- **用途**: markscanでの読み込み精度向上
+
+## Google Classroom連携
+
+### 個別配信システム
+**Google Classroomでの個別資料配信**
+
+[:material-book-open-variant: 詳細記事](https://qiita.com/phys-ken/items/269a118df0bc0c895ad4){ .md-button }
+
+- **プラットフォーム**: Google Apps Script
+- **機能**: 生徒個別の資料配信自動化
+- **特徴**: 生徒情報の効率的な書き出し機能
+
+## 文書・ファイル処理
+
+### ウラオモテヤマネコ
+**両面スキャン画像の自動仕分け**
+
+[:material-download: ダウンロード](https://phys-ken.github.io/uraomoteYamaneko/){ .md-button }
+
+- **機能**: 両面スキャンした画像を表裏ごとにフォルダ分け
+- **用途**: 大量の文書スキャン後の整理作業効率化
+
+### PDF2PPTX
+**PDF→PowerPoint変換ツール**
+
+[:material-github: GitHubリポジトリ](https://github.com/phys-ken/pdf2pptx_win_mac){ .md-button }
+
+- **機能**: PDFを1ページずつ画像に変換してPowerPointに挿入
+- **対応OS**: Windows・Mac
+- **用途**: 推薦書記入、資料作成
+
+## 授業支援
+
+### PowerPointアドイン
+**授業準備効率化アドイン**
+
+[:material-download: ダウンロード](https://phys-ken.github.io/pptxAddIn_ForSchool/){ .md-button }
+
+- **主要機能**:
+    - 4分割資料の一括作成
+    - BIZ UDゴシックへの一括フォント変換
+- **用途**: 授業資料の標準化・効率化
+
+### silent_cutter
+**動画編集支援ツール** 
+
+[:material-github: GitHubリポジトリ](https://github.com/phys-ken/silent_cutter){ .md-button }
+
+- **機能**: 動画の無音部分を自動検出・削除・結合
+- **要件**: Python, FFmpeg
+- **用途**: 授業動画の編集効率化
+
+## 教材作成支援
+
+### Markdown教材作成システム
+**文書作成ワークフローの効率化**
+
+[:material-file-pdf-box: 発表資料](https://www2.hamajima.co.jp/~tenjin/ypc/217/20210725markdown.pdf){ .md-button }
+
+#### docx_pptx2md
+[:material-github: GitHubリポジトリ](https://github.com/phys-ken/docx_pptx2md){ .md-button }
+
+- **機能**: Word・PowerPointファイルをMarkdown形式に変換
+- **要件**: Python
+
+#### md2exam  
+[:material-github: GitHubリポジトリ](https://github.com/phys-ken/md2exam){ .md-button }
+
+- **機能**: Markdownから試験問題テンプレートを自動生成
+- **特徴**: 選択肢の自動ソート、解答番号の自動振り分け
+- **要件**: Python, Pandoc
+
+## 開発Tips
+
+### VBA Tips
+**プリンター設定の自動化**
+
+[:material-github: Gistで確認](https://gist.github.com/phys-ken/23ef7fcce39e1eb5a8ba2ee27795b2e1){ .md-button }
+
+- **内容**: VBAでアクティブプリンターを設定するコード例
