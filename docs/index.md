@@ -28,22 +28,20 @@
 <details open>
 <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; margin-bottom: 15px;">📊 Contribution Graph</summary>
 
-![GitHub Activity](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="GitHub Activity" style="max-width: 100%; margin-top: 15px;">
+</p>
 
 </details>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
 
 <div>
-
-![Most Commit Languages](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/2-most-commit-language.svg)
-
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="Most Commit Languages" style="max-width: 100%;">
 </div>
 
 <div>
-
-![GitHub Stats](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/3-stats.svg)
-
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/3-stats.svg" alt="GitHub Stats" style="max-width: 100%;">
 </div>
 
 </div>
