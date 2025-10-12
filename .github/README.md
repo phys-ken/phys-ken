@@ -3,97 +3,87 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/62343651?s=200&u=66fa1053ffb4b798bd22bc86d1a06210b68e5d7c&v=4" alt="phys-ken" width="150" style="border-radius: 50%;" />
 
-### 🎓 高校物理教員 | 📚 教育技術開発
+### 高校物理教員 | 趣味でプログラミング
 
-[![Website](https://img.shields.io/badge/Website-phys--ken-blue?style=flat-square&logo=github)](https://phys-ken.github.io/phys-ken/)
-[![Qiita](https://img.shields.io/badge/Qiita-@phys--ken-55C500?style=flat-square&logo=qiita)](https://qiita.com/phys-ken)
+[![Website](https://img.shields.io/badge/🌐_Website-phys--ken-blue?style=for-the-badge)](https://phys-ken.github.io/phys-ken/)
 
 </div>
 
 ---
 
-## 🌐 ウェブサイト / Website
+## 👋 こんにちは
 
-このリポジトリの詳細は、以下のウェブサイトをご覧ください。
+公立高校で物理・情報を教えています。  
+趣味でソフトウェアを作っています。完璧じゃないけど、教育現場で使えるものを目指してます。
 
-**👉 [https://phys-ken.github.io/phys-ken/](https://phys-ken.github.io/phys-ken/)**
-
-ソフトウェア、研究資料、教材ツールなどを公開しています。
+**📌 詳しくは → [https://phys-ken.github.io/phys-ken/](https://phys-ken.github.io/phys-ken/)**
 
 ---
 
-## 📌 このリポジトリについて / About This Repository
+## 🔗 Links
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-phys--ken-181717?style=flat-square&logo=github)](https://github.com/phys-ken)
+[![Qiita](https://img.shields.io/badge/Qiita-@phys--ken-55C500?style=flat-square&logo=qiita)](https://qiita.com/phys-ken)
+[![note](https://img.shields.io/badge/note-phys__ken-00D4AA?style=flat-square)](https://note.com/phys_ken)
+[![YouTube](https://img.shields.io/badge/YouTube-phys--ken-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCZ_2UC-s5Sv4bCqh2EKjNmw)
+
+</div>
+
+---
+
+## � このリポジトリについて
 
 ### 🇯🇵 日本語
 
-このリポジトリは、**教育現場で使える物理・情報科教材**の開発プロジェクトです。
+教育現場で使える物理・情報科教材の開発プロジェクトです。
 
-#### 主な内容
-- 📄 **研究発表資料・学術論文**
-- 💻 **校務支援・採点システム**
-- 🔧 **物理シミュレーション・実験支援Webアプリ**
-- 🔍 **教材検索システム**
+**内容:**
+- 📄 研究発表資料・学術論文
+- 💻 校務支援・採点システム
+- 🔧 物理シミュレーション・実験支援Webアプリ
+- 🔍 教材検索システム
 
-#### 技術スタック
-- **MkDocs** (Material for MkDocs) - ドキュメントサイト
-- **GitHub Pages** - 自動デプロイ
-- **Python, JavaScript** - ツール開発
+**技術:** MkDocs (Material) / GitHub Pages / Python / JavaScript
 
-#### ご利用について
-- 趣味で開発しているため、完璧ではありません
-- **自己責任**でご利用ください
-- 学校での授業目的での利用を想定しています
-
-#### お問い合わせ
-- GitHub Issues、Qiita経由でお願いします
-- 校務の都合でお返事が遅れる場合があります
+**お願い:** 趣味で作ってるので自己責任でお願いします。質問はGitHub IssuesかQiitaで。校務が忙しいと返事が遅れるかも。
 
 ---
 
 ### 🇬🇧 English
 
-This repository contains **educational materials and tools for physics and computer science** developed for high school teaching.
+Educational materials and tools for physics and computer science teaching.
 
-#### Contents
-- 📄 **Research papers and presentations**
-- 💻 **School administration and grading systems**
-- 🔧 **Physics simulation and experiment support web apps**
-- 🔍 **Educational material search system**
+**Contents:** Research papers / School administration tools / Physics simulations / Material search system
 
-#### Tech Stack
-- **MkDocs** (Material for MkDocs) - Documentation site
-- **GitHub Pages** - Automated deployment
-- **Python, JavaScript** - Tool development
+**Tech:** MkDocs (Material) / GitHub Pages / Python / JavaScript
 
-#### Usage
-- Developed as a hobby project - not perfect
-- Use at **your own risk**
-- Intended for educational purposes in schools
-
-#### Contact
-- Please reach out via GitHub Issues or Qiita
-- Response may be delayed due to school duties
+**Note:** Hobby project - use at your own risk. Contact via GitHub Issues or Qiita. Response may be delayed due to school duties.
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary>📊 GitHub Activity</summary>
 
-[![GitHub Activity](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/phys-ken)
+<br>
 
-<div align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="GitHub Activity" width="100%">
+</p>
 
-[![Most Used Languages](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/phys-ken)
-[![GitHub Stats](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/phys-ken)
+<p align="center">
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="Most Used Languages" width="48%">
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/3-stats.svg" alt="GitHub Stats" width="48%">
+</p>
 
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-**詳細はウェブサイトへ / For more details, visit the website:**
-
-### 🌐 [phys-ken.github.io/phys-ken](https://phys-ken.github.io/phys-ken/)
+**🌐 [phys-ken.github.io/phys-ken](https://phys-ken.github.io/phys-ken/)**
 
 </div>
 

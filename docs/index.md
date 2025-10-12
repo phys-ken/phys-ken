@@ -22,31 +22,6 @@
 
 <div style="clear: both;"></div>
 
-## GitHub Activity
-
-<div style="margin: 30px 0;">
-<details open>
-<summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; margin-bottom: 15px;">📊 Contribution Graph</summary>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="GitHub Activity" style="max-width: 100%; margin-top: 15px;">
-</p>
-
-</details>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
-
-<div>
-<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="Most Commit Languages" style="max-width: 100%;">
-</div>
-
-<div>
-<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/3-stats.svg" alt="GitHub Stats" style="max-width: 100%;">
-</div>
-
-</div>
-</div>
-
 ## Connect with me
 
 <div class="social-links" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
@@ -109,3 +84,21 @@
 </div>
 
 </div>
+
+---
+
+<details>
+<summary style="cursor: pointer; font-weight: bold; font-size: 1.0em; color: #666; padding: 10px 0;">📊 GitHub Activity</summary>
+
+<div style="margin: 20px 0;">
+<p align="center">
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="GitHub Activity" style="max-width: 100%;">
+</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-top: 15px;">
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="Most Commit Languages" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/3-stats.svg" alt="GitHub Stats" style="max-width: 100%;">
+</div>
+</div>
+
+</details>
