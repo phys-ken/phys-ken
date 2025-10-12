@@ -22,6 +22,33 @@
 
 <div style="clear: both;"></div>
 
+## GitHub Activity
+
+<div style="margin: 30px 0;">
+<details open>
+<summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; margin-bottom: 15px;">📊 Contribution Graph</summary>
+
+![GitHub Activity](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/0-profile-details.svg)
+
+</details>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
+
+<div>
+
+![Most Commit Languages](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/2-most-commit-language.svg)
+
+</div>
+
+<div>
+
+![GitHub Stats](https://raw.githubusercontent.com/phys-ken/phys-ken/main/profile-summary-card-output/solarized/3-stats.svg)
+
+</div>
+
+</div>
+</div>
+
 ## Connect with me
 
 <div class="social-links" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
