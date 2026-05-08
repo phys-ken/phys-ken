@@ -9,6 +9,17 @@
 
 実際の測定やデータ取得に使えるツールです。
 
+### シンプル低周波発振器
+**物理実験・音響実験用のブラウザ発振器**
+
+[発振器を使う](https://phys-ken.github.io/simple_audio_app/teisyuha_buturikiso.html){ .md-button .md-button--primary }
+[GitHubリポジトリ](https://github.com/phys-ken/simple_audio_app){ .md-button }
+
+- **周波数範囲**: 1Hz〜20000Hz（0.1Hz単位で設定可能）
+- **操作**: 各桁のボタンで周波数を調整、スライダーで大まかな調整
+- **特徴**: インストール不要、レスポンシブ対応（スマートフォン・タブレット・PCで動作）
+- **用途**: 音の物理実験（共鳴・うなりなど）での発振源に
+
 ### Web Serial API 物理実験ツール
 
 **ブラウザでリアルタイム測定**

@@ -107,6 +107,45 @@
 
 ---
 
+<details style="margin-top: 20px;">
+<summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #555; padding: 15px; background: #f0f4ff; border-radius: 8px; list-style: none;">
+<span style="display: inline-block; margin-right: 10px;">🤖</span>このサイトの更新について（GitHub Copilot コーディングエージェント）
+</summary>
+
+<div style="padding: 20px; margin-top: 10px; background: #fafafa; border-radius: 8px; border: 1px solid #e0e0e0;">
+
+このページは **GitHub Copilot のコーディングエージェント機能** を初めて使って更新しました。
+普段の「チャット補完」とは異なり、エージェントはリポジトリを自律的に操作します。
+
+### ✅ エージェントができること
+
+- **コードの読み書き**: ファイルの閲覧・編集・新規作成
+- **GitHub API の活用**: 他リポジトリのREADMEや構造の取得
+- **ブランチ・PRの作成**: 変更を別ブランチにコミットしてプルリクエストを作成
+- **ビルド・テストの実行**: bash コマンドを通じた検証・確認
+- **進捗の逐次報告**: 作業の計画・進捗をPR説明文にリアルタイムで反映
+
+### ⚠️ エージェントができないこと
+
+- **直接 `git push` は不可**: コミット・プッシュは専用ツール経由のみ
+- **他リポジトリへの書き込み不可**: 対象リポジトリのみ変更可能
+- **秘密情報の扱い不可**: トークンやパスワードのコミットは禁止
+- **一部ディレクトリへのアクセス制限**: `.github/agents/` など内部設定は読み取れない
+- **インターネットアクセスに制限あり**: 一部ドメインはブロックされる場合がある
+
+### 📋 今回の作業内容
+
+今回のエージェントは以下を実施しました：
+
+1. 対象3リポジトリ（`nami_gousei_software`・`Seat_Roulette`・`simple_audio_app`）のREADMEを取得
+2. 既存サイト構造を分析し、各ツールの適切な配置先を判断
+3. 「ソフトウェア」ページに **波形設問作成ソフト** と **座席ルーレット** を追加
+4. 「ツール」ページに **シンプル低周波発振器** を追加
+5. このエージェント紹介セクションを作成
+
+</div>
+</details>
+
 <details style="margin-top: 40px;">
 <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #555; padding: 15px; background: #f5f5f5; border-radius: 8px; list-style: none;">
 <span style="display: inline-block; margin-right: 10px;">📊</span>GitHub Activity
