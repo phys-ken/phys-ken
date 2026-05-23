@@ -72,6 +72,19 @@
 
 ## 授業支援
 
+### 座席ルーレット
+**ランダム座席替え・グループ分けWebアプリ**
+
+[座席シャッフルを使う](https://phys-ken.github.io/Seat_Roulette/layout_custom.html){ .md-button .md-button--primary }
+[グループ分けを使う](https://phys-ken.github.io/Seat_Roulette/group_roulette.html){ .md-button }
+[GitHubリポジトリ](https://github.com/phys-ken/Seat_Roulette){ .md-button }
+
+- **機能**: 教室の座席配置をランダム化・グループ分け
+- **特徴**: 黒板投影に最適化したシンプルなUI、インストール不要
+- **座席シャッフル**: 最大180席（行・列数を自由に設定）、結果をExcelでダウンロード
+- **グループ分け**: 最大200人・30グループ対応、PDF出力（生徒ビュー・班ごとビュー・円卓ビューの3種）
+- **技術**: Vanilla JavaScript、SheetJS (Excel出力)、jsPDF (PDF出力)
+
 ### PowerPointアドイン
 **授業準備効率化アドイン**
 
@@ -92,6 +105,25 @@
 - **用途**: 授業動画の編集効率化
 
 ## 教材作成支援
+
+### 波の重ね合わせ 設問作成ソフト
+**物理教員向けの波形設問（PDF/DOCX/ZIP）自動生成ツール**
+
+[ブラウザで今すぐ使う](https://phys-ken.github.io/nami_gousei_software/){ .md-button .md-button--primary }
+[GitHubリポジトリ](https://github.com/phys-ken/nami_gousei_software){ .md-button }
+
+- **機能**: グリッドをクリック・ドラッグして波形を手描きし、問題・解答・解説をワンクリックで出力
+- **設問タイプ**: y-xグラフ・数値解答・y-tグラフ・合成波・反射波など7種類
+- **出力形式**: 問題PDF・解答PDF・DOCX（Word編集可）・ZIP一括（PDF＋DOCX＋全画像）
+- **特徴**: インストール不要・ブラウザだけで動作、白黒印刷用スタイル対応
+- **技術**: Vanilla JavaScript、REST API（Node.js）でAIエージェント連携も可能
+
+| 設問タイプ | 内容 |
+|------|------|
+| Type 1 | 指定時刻の y-x グラフ |
+| Type 3 | 指定地点の y-t グラフ（選択肢対応） |
+| Type 4 | 重ね合わせ波・指定時刻（選択肢対応） |
+| Type 6 | 反射波・指定時刻（選択肢対応） |
 
 ### Markdown教材作成システム
 **文書作成ワークフローの効率化**
